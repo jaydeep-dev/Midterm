@@ -1,0 +1,42 @@
+.SubmitBtn {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: royalblue;
+    color: white;
+    font-weight: bolder;
+}
+
+.CancelBtn {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
+
+.Error {
+    font-weight: bolder;
+    color: red;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+    
+}
+
+label {
+    display: block;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    size: auto;
+    width: 100%;
+}
